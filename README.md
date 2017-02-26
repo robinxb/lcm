@@ -24,7 +24,7 @@ Drop in lua path, and just require it:
 		self.name = name
 	end
 
-## Get a exist class
+## Get an existed class
 
 	Animal = Class.Animal
 	Animal = Class["Animal"]
@@ -76,7 +76,8 @@ Drop in lua path, and just require it:
 	end
 
 ## License
-	[MIT](LICENSE)
+
+[MIT](LICENSE)
 
 
 
