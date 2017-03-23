@@ -1,8 +1,8 @@
-#Lua Class Module (LCM)
+# Lua Class Module (LCM)
 
 A tiny class module written by lua with class support.
 
-##Usage
+## Usage
 
 Drop in lua path, and just require it:
 
